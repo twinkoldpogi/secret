@@ -11,7 +11,7 @@ const MPINScreen: React.FC<MPINScreenProps> = ({ onSuccess }) => {
   const [mpin, setMpin] = useState("");
   const [error, setError] = useState(false);
   const [showToast, setShowToast] = useState(false);
-  const correctMPIN = "043023"; // Valentine's Day ;)
+  const correctMPIN = "121524"; // Valentine's Day ;)
 
   const handleNumberClick = (number: string) => {
     if (mpin.length < 6) {
