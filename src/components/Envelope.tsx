@@ -182,11 +182,9 @@ const Envelope: React.FC<EnvelopeProps> = () => {
                           marginTop: "-30px",
                         }}
                       >
-                        To my beloved, From the very moment we laid eyes with
-                        each other. I knew that I met the woman of my dreams. My
-                        heart beats only for you. And every day spent with you
-                        is a gift, and each night I spend with you is a dream
-                        come true. Thank you for granting my wish.
+                        Mahal,
+
+I still can't believe how lucky I am to have you. Your love has changed my life in ways I never imagined. For so long, I doubted my worth, but you showed me otherwise. Thank you for being the best surprise of 2024. 
                       </p>
 
                       {/* Floating video */}
