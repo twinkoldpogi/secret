@@ -72,7 +72,7 @@ const MPINScreen: React.FC<MPINScreenProps> = ({ onSuccess }) => {
             Enter Secret Code
           </h2>
           <p className="mt-2 text-sm text-gray-600">
-            Hint: The date you agreed to be my boyfriend (YYMMDD)
+            Hint: The date you agreed to be my boyfriend (MMDDYY)
           </p>
         </div>
         <form onSubmit={handleSubmit} className="mt-8 space-y-6">
